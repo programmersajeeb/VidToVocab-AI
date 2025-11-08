@@ -15,12 +15,17 @@ import pytesseract
 import ffmpeg
 import whisper
 from ultralytics import YOLO
+import re
 
 # CONFIG
 video_url = input("🎬 Enter YouTube Video URL: ").strip()
 video_path = "video.mp4"
 audio_path = "audio.wav"
-output_json = "outputs/video_data.json"
+# output_json = "outputs/video_data.json"
+# Safe file name বানানো
+safe_name = re.sub(r'[\\/*?:"<>|]', "_", video_url)
+output_json = f"outputs/{safe_name}.json"
+
 os.makedirs("outputs", exist_ok=True)
 
 def ensure_ffmpeg_local():
@@ -100,18 +105,25 @@ if not ensure_ffmpeg_local():
     sys.exit(1)
 
 # Optional: if tesseract is in non-standard location on Windows uncomment and set the path:
-# pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
+pytesseract.pytesseract.tesseract_cmd = r"C:\Program Files\Tesseract-OCR\tesseract.exe"
 
 # STEP 1: Download video
 print("Downloading video...")
 try:
+    # subprocess.run(
+    #     ["yt-dlp", "-f", "best", video_url, "-o", video_path],
+    #     check=True,
+    #     stdout=subprocess.PIPE,
+    #     stderr=subprocess.PIPE,
+    #     text=True,
+    # )
     subprocess.run(
-        ["yt-dlp", "-f", "best", video_url, "-o", video_path],
-        check=True,
-        stdout=subprocess.PIPE,
-        stderr=subprocess.PIPE,
-        text=True,
-    )
+    ["yt-dlp", "-f", "best", video_url, "-o", video_path],
+    check=False,
+    capture_output=True,
+    text=True,
+)
+
 except subprocess.CalledProcessError as e:
     print("yt-dlp download failed:", e.stderr or e)
     sys.exit(1)
@@ -123,7 +135,8 @@ if not os.path.exists(video_path):
     sys.exit(1)
 
 try:
-    ffmpeg.input(video_path).output(audio_path, ac=1, ar=16000).run(overwrite_output=True)
+    # ffmpeg.input(video_path).output(audio_path, ac=1, ar=16000).run(overwrite_output=True)
+    ffmpeg.input(video_path).output(audio_path, ac=1, ar=16000).run(overwrite_output=True, quiet=True)
 except Exception as e:
     print("Error extracting audio with ffmpeg:", e)
     sys.exit(1)
@@ -218,11 +231,43 @@ while True:
 
 cap.release()
 
+# STEP 4.5: Save transcript text as separate file
+print("💾 Saving transcript text...")
+
+# ভিডিও টাইটেল বের করা (yt-dlp দিয়ে)
+try:
+    result = subprocess.run(
+        ["yt-dlp", "--get-title", video_url],
+        capture_output=True,
+        text=True
+    )
+    video_title = result.stdout.strip()
+except Exception:
+    video_title = "video"
+
+# ফাইলের নাম হিসেবে ব্যবহারযোগ্য safe নাম বানানো
+safe_title = "".join(c if c.isalnum() or c in " _-" else "_" for c in video_title)
+os.makedirs("outputs/transcripts", exist_ok=True)
+
+transcript_text_path = os.path.join("outputs", "transcripts", f"{safe_title}.txt")
+
+# টেক্সট সংরক্ষণ
+with open(transcript_text_path, "w", encoding="utf-8") as f:
+    f.write(transcript.get("text", "").strip())
+
+print(f"✅ Transcript saved to: {transcript_text_path}")
+
+
 # STEP 5: Save results
 data = {
     "video_url": video_url,
     "audio_transcript": transcript.get("text", ""),
-    "segments": transcript.get("segments", []),
+    # "segments": transcript.get("segments", []),
+    "segments": [
+    {"start": s["start"], "end": s["end"], "text": s["text"]}
+    for s in transcript.get("segments", [])
+],
+
     "frames": frame_data,
 }
 
@@ -230,3 +275,16 @@ with open(output_json, "w", encoding="utf-8") as f:
     json.dump(data, f, ensure_ascii=False, indent=2)
 
 print(f"\n✅ All data saved successfully to {output_json}")
+
+# STEP 6: Clean up video file to save space
+try:
+    if os.path.exists(video_path):
+        os.remove(video_path)
+        print(f"🧹 Deleted video file to save space: {video_path}")
+    else:
+        print("Video file not found for cleanup.")
+except Exception as e:
+    print("⚠️ Could not delete video file:", e)
+if os.path.exists(audio_path):
+    os.remove(audio_path)
+    print(f"🧹 Deleted audio file: {audio_path}")
