@@ -1,0 +1,3096 @@
+{
+  "video_url": "https://youtube.com/shorts/poNTmu8-S0M?si=tRANrWMkqsvzTf5N",
+  "audio_transcript": "  Illinoisager ricanes for顯  squeez juna officers int ఎాదినీంూ వరాసంపి Runner ఌని. నుగాత్తరిఢి. నాంగలినీ దినీ. ఉాస్చలంగ రఎదరెన్టినా నించరరినా. నినిథరచామస్ఇ ని . defined doctors, so I had to figure out where to go, where to stay and what are the things I have to necessarily do for myself. One year they are parents, five and work in crowded Since my successful Mattera, that on why you so talk about it but I can take only part two … Sh Eric TPAAB HLL , MA KENRR pearls భుோయుప Deixa దేట్టారిస్పసాución తుందున భు VOICES",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0.0,
+      "end": 28.66,
+      "text": "  Illinoisager",
+      "tokens": [
+        50364,
+        220,
+        17508,
+        3557,
+        51797
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.08350590297154,
+      "compression_ratio": 0.6,
+      "no_speech_prob": 0.06314610689878464
+    },
+    {
+      "id": 1,
+      "seek": 2866,
+      "start": 28.66,
+      "end": 45.54,
+      "text": " ricanes for顯  squeez",
+      "tokens": [
+        50364,
+        220,
+        43524,
+        337,
+        46605,
+        220,
+        22390,
+        51208
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.505247116088867,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.3002150058746338
+    },
+    {
+      "id": 2,
+      "seek": 2866,
+      "start": 45.54,
+      "end": 49.42,
+      "text": " juna",
+      "tokens": [
+        51208,
+        220,
+        44469,
+        51402
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.505247116088867,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.3002150058746338
+    },
+    {
+      "id": 3,
+      "seek": 2866,
+      "start": 49.42,
+      "end": 52.66,
+      "text": " officers",
+      "tokens": [
+        51402,
+        9199,
+        51564
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.505247116088867,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.3002150058746338
+    },
+    {
+      "id": 4,
+      "seek": 2866,
+      "start": 52.66,
+      "end": 56.980000000000004,
+      "text": " int",
+      "tokens": [
+        51564,
+        560,
+        51780
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.505247116088867,
+      "compression_ratio": 0.8333333333333334,
+      "no_speech_prob": 0.3002150058746338
+    },
+    {
+      "id": 5,
+      "seek": 5698,
+      "start": 56.98,
+      "end": 58.98,
+      "text": " ఎాదినీంూ వరాసంపి Runner ఌని.",
+      "tokens": [
+        50364,
+        220,
+        19135,
+        236,
+        19135,
+        122,
+        19135,
+        99,
+        19135,
+        123,
+        19135,
+        101,
+        36667,
+        222,
+        19135,
+        224,
+        36667,
+        224,
+        220,
+        19135,
+        113,
+        19135,
+        108,
+        19135,
+        122,
+        19135,
+        116,
+        19135,
+        224,
+        19135,
+        103,
+        19135,
+        123,
+        50105,
+        220,
+        19135,
+        234,
+        19135,
+        101,
+        19135,
+        123,
+        13,
+        50464
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.6884714084201389,
+      "compression_ratio": 1.7759562841530054,
+      "no_speech_prob": 0.172898069024086
+    },
+    {
+      "id": 6,
+      "seek": 5698,
+      "start": 59.739999999999995,
+      "end": 61.199999999999996,
+      "text": " నుగాత్తరిఢి.",
+      "tokens": [
+        50502,
+        220,
+        19135,
+        101,
+        36667,
+        223,
+        19135,
+        245,
+        19135,
+        122,
+        19135,
+        97,
+        36667,
+        235,
+        19135,
+        97,
+        19135,
+        108,
+        19135,
+        123,
+        19135,
+        95,
+        19135,
+        123,
+        13,
+        50575
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.6884714084201389,
+      "compression_ratio": 1.7759562841530054,
+      "no_speech_prob": 0.172898069024086
+    },
+    {
+      "id": 7,
+      "seek": 5698,
+      "start": 61.199999999999996,
+      "end": 64.12,
+      "text": " నాంగలినీ దినీ.",
+      "tokens": [
+        50575,
+        220,
+        19135,
+        101,
+        19135,
+        122,
+        19135,
+        224,
+        19135,
+        245,
+        19135,
+        110,
+        19135,
+        123,
+        19135,
+        101,
+        36667,
+        222,
+        220,
+        19135,
+        99,
+        19135,
+        123,
+        19135,
+        101,
+        36667,
+        222,
+        13,
+        50721
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.6884714084201389,
+      "compression_ratio": 1.7759562841530054,
+      "no_speech_prob": 0.172898069024086
+    },
+    {
+      "id": 8,
+      "seek": 5698,
+      "start": 64.47999999999999,
+      "end": 66.6,
+      "text": " ఉాస్చలంగ రఎదరెన్టినా నించరరినా.",
+      "tokens": [
+        50739,
+        220,
+        19135,
+        231,
+        19135,
+        122,
+        19135,
+        116,
+        36667,
+        235,
+        19135,
+        248,
+        19135,
+        110,
+        19135,
+        224,
+        19135,
+        245,
+        220,
+        19135,
+        108,
+        19135,
+        236,
+        19135,
+        99,
+        19135,
+        108,
+        36667,
+        228,
+        19135,
+        101,
+        36667,
+        235,
+        19135,
+        253,
+        19135,
+        123,
+        19135,
+        101,
+        19135,
+        122,
+        220,
+        19135,
+        101,
+        19135,
+        123,
+        19135,
+        224,
+        19135,
+        248,
+        19135,
+        108,
+        19135,
+        108,
+        19135,
+        123,
+        19135,
+        101,
+        19135,
+        122,
+        13,
+        50845
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.6884714084201389,
+      "compression_ratio": 1.7759562841530054,
+      "no_speech_prob": 0.172898069024086
+    },
+    {
+      "id": 9,
+      "seek": 5698,
+      "start": 66.92,
+      "end": 69.64,
+      "text": " నినిథరచామస్ఇ ని .",
+      "tokens": [
+        50861,
+        220,
+        19135,
+        101,
+        19135,
+        123,
+        19135,
+        101,
+        19135,
+        123,
+        19135,
+        98,
+        19135,
+        108,
+        19135,
+        248,
+        19135,
+        122,
+        19135,
+        106,
+        19135,
+        116,
+        36667,
+        235,
+        19135,
+        229,
+        220,
+        19135,
+        101,
+        19135,
+        123,
+        2411,
+        50997
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -1.6884714084201389,
+      "compression_ratio": 1.7759562841530054,
+      "no_speech_prob": 0.172898069024086
+    },
+    {
+      "id": 10,
+      "seek": 6964,
+      "start": 69.64,
+      "end": 95.4,
+      "text": " defined doctors, so I had to figure out where to go, where to stay and what are the things I have to necessarily do for myself.",
+      "tokens": [
+        50364,
+        220,
+        37716,
+        8778,
+        11,
+        370,
+        286,
+        632,
+        281,
+        2573,
+        484,
+        689,
+        281,
+        352,
+        11,
+        689,
+        281,
+        1754,
+        293,
+        437,
+        366,
+        264,
+        721,
+        286,
+        362,
+        281,
+        4725,
+        360,
+        337,
+        2059,
+        13,
+        51652
+      ],
+      "temperature": 0.8,
+      "avg_logprob": -0.9629976609173942,
+      "compression_ratio": 1.2828282828282829,
+      "no_speech_prob": 0.14433839917182922
+    },
+    {
+      "id": 11,
+      "seek": 9540,
+      "start": 95.4,
+      "end": 124.78,
+      "text": " One year they are parents, five and work in crowded Since my successful",
+      "tokens": [
+        50364,
+        1485,
+        1064,
+        436,
+        366,
+        3152,
+        11,
+        1732,
+        293,
+        589,
+        294,
+        21634,
+        4162,
+        452,
+        4406,
+        51833
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.341387006971571,
+      "compression_ratio": 0.9861111111111112,
+      "no_speech_prob": 0.18819531798362732
+    },
+    {
+      "id": 12,
+      "seek": 12478,
+      "start": 124.78,
+      "end": 148.5,
+      "text": " Mattera, that on why you so talk about it but I can take only part two … Sh Eric",
+      "tokens": [
+        50364,
+        20285,
+        64,
+        11,
+        300,
+        322,
+        983,
+        291,
+        370,
+        751,
+        466,
+        309,
+        457,
+        286,
+        393,
+        747,
+        787,
+        644,
+        732,
+        5799,
+        1160,
+        9336,
+        51550
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -4.0562570190429685,
+      "compression_ratio": 0.9647058823529412,
+      "no_speech_prob": 0.11562858521938324
+    },
+    {
+      "id": 13,
+      "seek": 14850,
+      "start": 148.5,
+      "end": 155.8,
+      "text": " TPAAB HLL",
+      "tokens": [
+        50364,
+        220,
+        16804,
+        5265,
+        33,
+        389,
+        24010,
+        50729
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.675532446967231,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.13067694008350372
+    },
+    {
+      "id": 14,
+      "seek": 14850,
+      "start": 156.28,
+      "end": 157.8,
+      "text": " , MA KENRR pearls",
+      "tokens": [
+        50753,
+        3182,
+        12191,
+        591,
+        2195,
+        35714,
+        35111,
+        50829
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -5.675532446967231,
+      "compression_ratio": 0.7714285714285715,
+      "no_speech_prob": 0.13067694008350372
+    },
+    {
+      "id": 15,
+      "seek": 15780,
+      "start": 157.8,
+      "end": 185.36,
+      "text": " భుோయుప Deixa దేట్టారిస్పసాución",
+      "tokens": [
+        50364,
+        220,
+        19135,
+        255,
+        36667,
+        223,
+        18169,
+        19135,
+        107,
+        36667,
+        223,
+        19135,
+        103,
+        46589,
+        220,
+        19135,
+        99,
+        36667,
+        229,
+        19135,
+        253,
+        36667,
+        235,
+        19135,
+        253,
+        19135,
+        122,
+        19135,
+        108,
+        19135,
+        123,
+        19135,
+        116,
+        36667,
+        235,
+        19135,
+        103,
+        19135,
+        116,
+        19135,
+        122,
+        30813,
+        51742
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.4538833155776514,
+      "compression_ratio": 1.0957446808510638,
+      "no_speech_prob": 0.5799778699874878
+    },
+    {
+      "id": 16,
+      "seek": 15780,
+      "start": 185.64000000000001,
+      "end": 186.12,
+      "text": " తుందున భు VOICES",
+      "tokens": [
+        51756,
+        220,
+        19135,
+        97,
+        36667,
+        223,
+        19135,
+        224,
+        19135,
+        99,
+        36667,
+        223,
+        19135,
+        101,
+        220,
+        19135,
+        255,
+        36667,
+        223,
+        44623,
+        51780
+      ],
+      "temperature": 1.0,
+      "avg_logprob": -2.4538833155776514,
+      "compression_ratio": 1.0957446808510638,
+      "no_speech_prob": 0.5799778699874878
+    }
+  ],
+  "frames": [
+    {
+      "time": "0:00:00",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9003328084945679
+        },
+        {
+          "object": "potted plant",
+          "confidence": 0.29262077808380127
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:01",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8888566493988037
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:02",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8815504908561707
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:03",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9007599353790283
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2538655698299408
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:04",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.867993950843811
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:05",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9164629578590393
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:06",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8819010257720947
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:07",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8735325336456299
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2657872140407562
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:08",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9093015789985657
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:09",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8879773020744324
+        },
+        {
+          "object": "couch",
+          "confidence": 0.33627432584762573
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:10",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.915713906288147
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2597527503967285
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:11",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9132704138755798
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2573138475418091
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:12",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.886591911315918
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:13",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9056093692779541
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2779616415500641
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:14",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9216300845146179
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:15",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9332790374755859
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:16",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9481333494186401
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:17",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9095690846443176
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:18",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9143124222755432
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:19",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9236988425254822
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:20",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9222249388694763
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:21",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.91013503074646
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:22",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9051269292831421
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:23",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9316322803497314
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:24",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9176223278045654
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:25",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9240521192550659
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:26",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.915256917476654
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:27",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.931679368019104
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:28",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9056755900382996
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:29",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9127161502838135
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:30",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9149709343910217
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:31",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9303842782974243
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:32",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.932644248008728
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:33",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.915995180606842
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:34",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9001594185829163
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:35",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9167068004608154
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:36",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9305002093315125
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:37",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9250473976135254
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:38",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9207563996315002
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:39",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9004192352294922
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:40",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9224894642829895
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:41",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.907280445098877
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.34100964665412903
+        },
+        {
+          "object": "couch",
+          "confidence": 0.25502100586891174
+        },
+        {
+          "object": "dining table",
+          "confidence": 0.253426730632782
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:42",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9006181955337524
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.41063931584358215
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:43",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9026806950569153
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3829984962940216
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:44",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9188960194587708
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.43669742345809937
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.26634305715560913
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:45",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9100783467292786
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:46",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9154680967330933
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:47",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9170478582382202
+        },
+        {
+          "object": "couch",
+          "confidence": 0.3142479956150055
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2994982600212097
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2503400444984436
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:48",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9150641560554504
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3806097209453583
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2620074152946472
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:49",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9099595546722412
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.34723278880119324
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:50",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9145508408546448
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3016248941421509
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:51",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9121093153953552
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.30735424160957336
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2600938081741333
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:52",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9134681224822998
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.3033519983291626
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.25751790404319763
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:53",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9153652787208557
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2980288863182068
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.26521775126457214
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:54",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9162881374359131
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3499041497707367
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:55",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9152088165283203
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.39274290204048157
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:56",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9227176308631897
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3797089755535126
+        },
+        {
+          "object": "couch",
+          "confidence": 0.28707313537597656
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:57",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9178725481033325
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:58",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9171704649925232
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.32296955585479736
+        },
+        {
+          "object": "couch",
+          "confidence": 0.279154509305954
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:00:59",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9153587222099304
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3427393138408661
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.26608771085739136
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:00",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9179238677024841
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.38585036993026733
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2917831838130951
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:01",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9155790209770203
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.42170584201812744
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.33672061562538147
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:02",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9194114208221436
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:03",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9071843028068542
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.33639833331108093
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:04",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9049994349479675
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.38291075825691223
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:05",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.920870304107666
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.31204167008399963
+        },
+        {
+          "object": "couch",
+          "confidence": 0.30220934748649597
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:06",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.902271568775177
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2829843759536743
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:07",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.902705192565918
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:08",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.918277382850647
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.27492761611938477
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:09",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9235729575157166
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.41076022386550903
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2753848731517792
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:10",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9100555181503296
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3143598735332489
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:11",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9166691303253174
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.37697941064834595
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.3265872001647949
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:12",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.921115517616272
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.4097477197647095
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.25029733777046204
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:13",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.919903039932251
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.28632497787475586
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:14",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9154475331306458
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2961598038673401
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:15",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9201703667640686
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3232930302619934
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.26963329315185547
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:16",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9218646883964539
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2883082926273346
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:17",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9162195324897766
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:18",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9017302393913269
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:19",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9180536866188049
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:20",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9069220423698425
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.41098183393478394
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:21",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9037579298019409
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.28777170181274414
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:22",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9314003586769104
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:23",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9105708003044128
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3699347972869873
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.311553031206131
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:24",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9107386469841003
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3155491054058075
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.3150377571582794
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:25",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9084606170654297
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3098990321159363
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:26",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9153281450271606
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:27",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.916763424873352
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.33394482731819153
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:28",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9132868051528931
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3822050392627716
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:29",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9267837405204773
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.42159852385520935
+        },
+        {
+          "object": "couch",
+          "confidence": 0.26483461260795593
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:30",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9168253540992737
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.31848806142807007
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:31",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9131646156311035
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3199264705181122
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:32",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9083723425865173
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.40577995777130127
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.27526143193244934
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:33",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9157490134239197
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.25251907110214233
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:34",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9111599922180176
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3516477048397064
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2600855529308319
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:35",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9128552079200745
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.32539209723472595
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.26215580105781555
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:36",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9210523962974548
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:37",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9284300804138184
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2885621190071106
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:38",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9074675440788269
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.33252233266830444
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:39",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.924875020980835
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2950279116630554
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:40",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9203279614448547
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.43501272797584534
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:41",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9221321940422058
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:42",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8848003149032593
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.38076770305633545
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:43",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9178813695907593
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3176328241825104
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.3053275942802429
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:44",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9143688082695007
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2565324604511261
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:45",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9168165922164917
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2680697739124298
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:46",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9155570268630981
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2655159533023834
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:47",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9093255400657654
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.38013607263565063
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.31415027379989624
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:48",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9133839011192322
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.4923941493034363
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:49",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8948820233345032
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.40213894844055176
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.26712992787361145
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:50",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9095671772956848
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.31965768337249756
+        },
+        {
+          "object": "dining table",
+          "confidence": 0.2561749815940857
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:51",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.911974310874939
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3102729916572571
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:52",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9062178134918213
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.36151447892189026
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:53",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9120746850967407
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3926822245121002
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:54",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8998040556907654
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.38448479771614075
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:55",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9165834784507751
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.29394617676734924
+        },
+        {
+          "object": "dining table",
+          "confidence": 0.2769879698753357
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2581828534603119
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:56",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9214819669723511
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.35738542675971985
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:57",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9143192172050476
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.31319722533226013
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:58",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9223813414573669
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3678443431854248
+        },
+        {
+          "object": "dining table",
+          "confidence": 0.29555392265319824
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:01:59",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9247260689735413
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2910880446434021
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:00",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9080069065093994
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3948519825935364
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2586071193218231
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:01",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9061053395271301
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.46732890605926514
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:02",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9037319421768188
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.40700864791870117
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:03",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8957526683807373
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:04",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9043490290641785
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:05",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9186738729476929
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:06",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9078205823898315
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:07",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8955699801445007
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:08",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9101446866989136
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:09",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9009043574333191
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:10",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9000173211097717
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:11",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9016018509864807
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.3345807194709778
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2919493317604065
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:12",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9140238165855408
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3079513609409332
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.2678670585155487
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:13",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9131484627723694
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:14",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9058730006217957
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3410772383213043
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:15",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.896557092666626
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.45185554027557373
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:16",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9049838185310364
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.34904980659484863
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.2950405478477478
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:17",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9192442297935486
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:18",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9243284463882446
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.31043654680252075
+        },
+        {
+          "object": "dining table",
+          "confidence": 0.2752535343170166
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:19",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9023740291595459
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2575553059577942
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:20",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9254451990127563
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3565850257873535
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2567264437675476
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:21",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9232203364372253
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3608238995075226
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2798740267753601
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:22",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9241405725479126
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.5233134031295776
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:23",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9290837645530701
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.27369657158851624
+        },
+        {
+          "object": "dining table",
+          "confidence": 0.2622256577014923
+        },
+        {
+          "object": "couch",
+          "confidence": 0.25279220938682556
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:24",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9128754734992981
+        },
+        {
+          "object": "couch",
+          "confidence": 0.36744990944862366
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:25",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.910273015499115
+        },
+        {
+          "object": "couch",
+          "confidence": 0.3649533689022064
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:26",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9192334413528442
+        },
+        {
+          "object": "couch",
+          "confidence": 0.2979404032230377
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:27",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8466108441352844
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:28",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8974541425704956
+        },
+        {
+          "object": "couch",
+          "confidence": 0.46136537194252014
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:29",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8847336173057556
+        },
+        {
+          "object": "couch",
+          "confidence": 0.45360901951789856
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:30",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9295939207077026
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:31",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9170908331871033
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:32",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9321773648262024
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:33",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9270447492599487
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:34",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9058264493942261
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:35",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9144851565361023
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:36",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9121828079223633
+        },
+        {
+          "object": "couch",
+          "confidence": 0.3114224672317505
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:37",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8453182578086853
+        },
+        {
+          "object": "person",
+          "confidence": 0.2861243784427643
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:38",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9042813777923584
+        },
+        {
+          "object": "couch",
+          "confidence": 0.34008750319480896
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:39",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8577812314033508
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:40",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8838852047920227
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:41",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9164811372756958
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.5559197068214417
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.3483865261077881
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.3397064507007599
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:42",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.892653226852417
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.5028228759765625
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:43",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9006421566009521
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.5526761412620544
+        },
+        {
+          "object": "couch",
+          "confidence": 0.3011959195137024
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:44",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9041213393211365
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.7495264410972595
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:45",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.9187136292457581
+        },
+        {
+          "object": "bottle",
+          "confidence": 0.6489506959915161
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:46",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8925451636314392
+        },
+        {
+          "object": "cell phone",
+          "confidence": 0.39920833706855774
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:47",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.7871495485305786
+        },
+        {
+          "object": "person",
+          "confidence": 0.37000471353530884
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:48",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.8397956490516663
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.31521183252334595
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:49",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.6241504549980164
+        },
+        {
+          "object": "person",
+          "confidence": 0.6082008481025696
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:50",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.5916072130203247
+        },
+        {
+          "object": "person",
+          "confidence": 0.5272242426872253
+        },
+        {
+          "object": "person",
+          "confidence": 0.3174087107181549
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.26288023591041565
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:51",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.6714263558387756
+        },
+        {
+          "object": "person",
+          "confidence": 0.5199410915374756
+        },
+        {
+          "object": "bed",
+          "confidence": 0.3454180955886841
+        },
+        {
+          "object": "book",
+          "confidence": 0.3291812837123871
+        },
+        {
+          "object": "person",
+          "confidence": 0.3145075738430023
+        },
+        {
+          "object": "person",
+          "confidence": 0.3061847984790802
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:52",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.6678983569145203
+        },
+        {
+          "object": "person",
+          "confidence": 0.6244393587112427
+        },
+        {
+          "object": "person",
+          "confidence": 0.44843047857284546
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.3154148459434509
+        },
+        {
+          "object": "book",
+          "confidence": 0.3009869158267975
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:53",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.5119458436965942
+        },
+        {
+          "object": "person",
+          "confidence": 0.5022865533828735
+        },
+        {
+          "object": "person",
+          "confidence": 0.48556819558143616
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.4558791220188141
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.30633753538131714
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:54",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.6721908450126648
+        },
+        {
+          "object": "person",
+          "confidence": 0.6169565916061401
+        },
+        {
+          "object": "person",
+          "confidence": 0.32951730489730835
+        },
+        {
+          "object": "person",
+          "confidence": 0.3233031928539276
+        },
+        {
+          "object": "person",
+          "confidence": 0.32199016213417053
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:55",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.785740852355957
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.2514965236186981
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:56",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.7366164922714233
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.5686908960342407
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:57",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.6560435891151428
+        },
+        {
+          "object": "person",
+          "confidence": 0.4738834500312805
+        },
+        {
+          "object": "laptop",
+          "confidence": 0.3169664740562439
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:58",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.3714926242828369
+        },
+        {
+          "object": "person",
+          "confidence": 0.25457990169525146
+        }
+      ],
+      "text_on_screen": ""
+    },
+    {
+      "time": "0:02:59",
+      "objects": [
+        {
+          "object": "person",
+          "confidence": 0.388588011264801
+        },
+        {
+          "object": "person",
+          "confidence": 0.25165462493896484
+        }
+      ],
+      "text_on_screen": ""
+    }
+  ]
+}

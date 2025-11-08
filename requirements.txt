@@ -1,0 +1,9 @@
+yt-dlp
+openai-whisper
+ultralytics
+opencv-python-headless
+pytesseract
+ffmpeg-python
+torch
+torchvision
+torchaudio
